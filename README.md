@@ -15,11 +15,11 @@ python tkgc.py
 If you find our work useful, please kindly cite it as follows:
 
 ```
-@inproceedings{Remp,
-  author    = {Jiacheng Huang and Wei Hu and Zhifeng Bao and Yuzhong Qu},
-  title     = {Crowdsourced Collective Entity Resolution with Relational Match Propagation},
-  booktitle = {ICDE},
+@inproceedings{TKGC,
+  author    = {Huang, Jiacheng and Zhao, Yao and Hu, Wei and Ning, Zhen and Chen, Qijin and Qiu, Xiaoxia and Huo, Chengfu and Ren, Weijun},
+  title     = {Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data, WWW 2022},
+  booktitle = {WWW},
   pages     = {xxx--xxx},
-  year      = {2020}
+  year      = {2022}
 }
 ```
