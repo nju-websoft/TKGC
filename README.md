@@ -6,10 +6,10 @@ Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data, WWW 20
 * Python libraries: see code/requirements.txt
 
 ## Quick Start
-`
+```
 cd code
 python tkgc.py
-`
+```
 
 ## Citation
 If you find our work useful, please kindly cite it as follows:
