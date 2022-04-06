@@ -3,7 +3,7 @@ torchmetrics
 deepmatcher
 torch==1.7.1
 torchtext==0.8.1
-nltk==3.5
+nltk
 numpy
 pandas
 scipy
